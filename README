@@ -1,3 +1,2 @@
 Este projeto utiliza a extensão Jupyter e deve ser executado bloco a bloco.
 Após a execução, os arquivos serão salvos dentro da pasta "files", nos seus respectivos domínios(encoded & decoded).
-Os arquivos não possuem os headers modificados.
